@@ -1,0 +1,8 @@
+1) Install Xampp software
+2) go to htdocs file in root directory of xampp 
+3)copy inventory-management-system file in to htdocs 
+4) run xampp control panel and start both apache and mysql server 
+5) click admin button on mysql row
+6) create new database in phpMyAdmin called "inven"!!!!!!
+7)import sql file in database
+8) in browser type http://localhost/inventory-management-system/home.php
